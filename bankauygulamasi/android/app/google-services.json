@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336598012953",
+    "project_id": "bankauygulamasi2",
+    "storage_bucket": "bankauygulamasi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336598012953:android:cd73cf5de63994fef7c688",
+        "android_client_info": {
+          "package_name": "com.example.bankauygulamasi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336598012953-rtmpe1nhp4f0bs7h0v7ousvekm4qvgea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcBR25CbxVpxEXPi1rj-3lhJlBWPqUZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336598012953-rtmpe1nhp4f0bs7h0v7ousvekm4qvgea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
